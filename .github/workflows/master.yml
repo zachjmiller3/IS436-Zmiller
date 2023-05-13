@@ -17,4 +17,4 @@ jobs:
         server: swe.umbc.edu
         username: ${{ secrets.ftp_username }}
         password: ${{ secrets.ftp_password }}
-        server-dir: /~z41/
+        server-dir: /~z41/swe2023
